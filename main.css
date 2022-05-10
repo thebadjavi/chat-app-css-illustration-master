@@ -22,7 +22,7 @@ body{
 
 }
 .header__nav{
-      font-size: 2rem;
+    font-size: 2rem;
 }
 .header__avatar{
      
@@ -37,13 +37,19 @@ body{
 }
 .header__status{
     margin: 0;   
+    
 
 }
 .header__info{
- 
+    float:right;
+    position:absolute;
     justify-self: end;
     font-size: 2rem;
 
+}
+
+chat__messenger{
+    
 }
 
 
